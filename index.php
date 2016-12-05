@@ -142,13 +142,13 @@
   </div> !-->
   
   <hr>
-  <div class="w3-container w3-padding-32 w3-center">  
+  <div class="w3-container w3-padding-32 w3-center" style="padding: 50px;">  
     <h3>About Us, The Munchketeers!</h3><br>
     <img src="download.jpg" alt="Me" class="w3-image" style="display:block;margin:auto" width="300" height="250">
     <div class="w3-padding-32">
       <h4><b>We are the Munchketeers!</b></h4>
       <h6><i>With Passion For Real, Good Food</i></h6>
-      <p>We explore the universe of unknownment. We have a passion for real good food, and we like to share our recipes. Here you can find recipes for some rare interesting dishes, desserts, appetizers and drinks. You can even rate our recipes and keep a log of your favourite ones!</p>
+      <p>We explore the universe of unknownment.</p> <p>We have a passion for real good food, and we like to share our recipes.</p><p>Here you can find recipes for some rare interesting dishes, desserts, appetizers and drinks. </p><p>You can even rate our recipes and keep a log of your favourite ones!</p>
     </div>
   </div>
 
